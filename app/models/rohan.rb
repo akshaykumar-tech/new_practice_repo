@@ -1,0 +1,2 @@
+class Rohan < ApplicationRecord
+end
